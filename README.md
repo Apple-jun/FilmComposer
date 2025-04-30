@@ -3,7 +3,7 @@
 [[Paper]](https://arxiv.org/abs/2503.08147) [[Project Page]](https://apple-jun.github.io/FilmComposer.github.io/) [[Dataset]](https://huggingface.co/datasets/apple-jun/MusicPro-7k)
 
 ## Dataset
-* The MusicPro-7k dataset will be released on [Hugging Face](https://huggingface.co/datasets/apple-jun/MusicPro-7k). Please sign the [MusicPro-7k Terms of Use](MusicPro-7k_Terms_of_Use.pdf) and send email to `heqi389973717@gmail.com`.
+* The MusicPro-7k dataset will be released on [Hugging Face](https://huggingface.co/datasets/apple-jun/MusicPro-7k). Please sign the [MusicPro-7k Terms of Use](./MusicPro-7k_Terms_of_Use.pdf) and send email to `heqi389973717@gmail.com`.
 
 Model coming soon...
 
